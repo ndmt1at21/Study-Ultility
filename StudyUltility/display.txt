@@ -1,0 +1,17 @@
+  ##     ## ##       ######## #### ##       #### ######## ##    ##
+  ##     ## ##          ##     ##  ##        ##     ##     ##  ##
+  ##     ## ##          ##     ##  ##        ##     ##      ####
+  ##     ## ##          ##     ##  ##        ##     ##       ##
+  ##     ## ##          ##     ##  ##        ##     ##       ##
+  ##     ## ##          ##     ##  ##        ##     ##       ##
+   #######  ########    ##    #### ######## ####    ##       ##
+         
+          1. TIM CONG THUC DA THUC TOI TIEU CUA HAM BOOL
+          2. CONG HAI VECTOR 
+          3. NHAN VECTOR VOI 1 SO ALPHA 
+          4. DINH THUC MA TRAN 
+          5. NGHICH DAO MA TRAN 
+          6. TICH HAI MA TRAN
+          7. HANG CUA MA TRAN 
+          8. HE PHUONG TRINH TUYEN TINH
+          9. THOAT CHUONG TRINH
